@@ -11,7 +11,7 @@ import SwiftUI
 struct iOS_MyWebsite_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
         }
     }
 }
