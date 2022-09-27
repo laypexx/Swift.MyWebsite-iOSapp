@@ -1,3 +1,3 @@
 # Swift.MyWebsite-iOSapp
 
-<img src="./files/app.png" height="800" width="300">
+<img src="./files/app.png" height="650" width="300">
